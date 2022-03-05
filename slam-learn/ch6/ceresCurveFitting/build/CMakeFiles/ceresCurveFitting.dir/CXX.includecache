@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/vslam_learn/slam-learn/ch6/ceresCurveFitting/ceresCurveFitting.cpp
+iostream
+-
+opencv4/opencv2/core/core.hpp
+-
+ceres/ceres.h
+-
+chrono
+-
+

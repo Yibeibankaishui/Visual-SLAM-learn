@@ -1,0 +1,5 @@
+/home/parallels/vslam_learn/slam-homework/p4/L4/code/CMakeFiles/edit_cache.dir
+/home/parallels/vslam_learn/slam-homework/p4/L4/code/CMakeFiles/rebuild_cache.dir
+/home/parallels/vslam_learn/slam-homework/p4/L4/code/CMakeFiles/undistort.dir
+/home/parallels/vslam_learn/slam-homework/p4/L4/code/CMakeFiles/disparity.dir
+/home/parallels/vslam_learn/slam-homework/p4/L4/code/CMakeFiles/gaussnewton.dir

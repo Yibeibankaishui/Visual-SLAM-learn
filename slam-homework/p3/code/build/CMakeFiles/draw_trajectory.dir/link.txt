@@ -1,0 +1,1 @@
+/usr/bin/c++  '-std=c++11' -O3 -DNDEBUG  -rdynamic CMakeFiles/draw_trajectory.dir/draw_trajectory.cpp.o  -o draw_trajectory  -Wl,-rpath,/usr/local/lib /usr/local/lib/libpangolin.so -lGL -lGLU -lGLEW -lX11 -lrt -lpthread 

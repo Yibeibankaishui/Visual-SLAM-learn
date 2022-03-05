@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/littleCarrot.dir/littleCarrot.cpp.o  -o littleCarrot 

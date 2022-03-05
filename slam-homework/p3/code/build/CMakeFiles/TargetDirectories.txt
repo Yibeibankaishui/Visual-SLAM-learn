@@ -1,0 +1,4 @@
+/home/parallels/vslam_learn/slam-homework/p3/code/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/vslam_learn/slam-homework/p3/code/build/CMakeFiles/edit_cache.dir
+/home/parallels/vslam_learn/slam-homework/p3/code/build/CMakeFiles/trajectoryError.dir
+/home/parallels/vslam_learn/slam-homework/p3/code/build/CMakeFiles/draw_trajectory.dir

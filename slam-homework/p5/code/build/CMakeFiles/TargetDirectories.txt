@@ -1,0 +1,6 @@
+/home/parallels/vslam_learn/slam-homework/p5/code/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/vslam_learn/slam-homework/p5/code/build/CMakeFiles/edit_cache.dir
+/home/parallels/vslam_learn/slam-homework/p5/code/build/CMakeFiles/TrackAlignment.dir
+/home/parallels/vslam_learn/slam-homework/p5/code/build/CMakeFiles/GN-BA.dir
+/home/parallels/vslam_learn/slam-homework/p5/code/build/CMakeFiles/E2Rt.dir
+/home/parallels/vslam_learn/slam-homework/p5/code/build/CMakeFiles/computeORB.dir

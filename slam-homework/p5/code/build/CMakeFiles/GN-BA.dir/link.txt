@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -O3 -DNDEBUG  -rdynamic CMakeFiles/GN-BA.dir/GN-BA.cpp.o  -o GN-BA 
